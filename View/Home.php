@@ -1,0 +1,8 @@
+<div class="paginaConteudo">
+    <h1>Olá, <?=$_SESSION["nomeusuario"];?></h1>
+    <br>
+
+    <p>ipsum dolor sit amet, consectetur adipiscing elit. Sed semper quis purus sed porta. Phasellus odio erat, mattis id congue at, condimentum in lacus. Nunc velit felis, rhoncus quis dapibus a, cursus id odio. Nunc sed augue eget mi accumsan vehicula vitae quis est. Nunc gravida, erat quis maximus euismod, sapien orci imperdiet urna, commodo dictum enim lorem a libero. Nunc ante ipsum, porttitor ac ante sit amet, pretium porttitor arcu. Suspendisse ultrices purus arcu, sagittis pharetra enim bibendum eu. Vivamus pulvinar, tellus et viverra commodo, lorem mi ultrices mi, non consequat lectus velit ultricies mauris. Nunc porttitor, ex ut molestie auctor, dolor urna efficitur odio, non sodales nunc metus sed justo. Donec felis ligula, condimentum nec odio non, egestas interdum turpis. Nam nec est sapien. Morbi venenatis massa velit, sit amet faucibus diam pellentesque vel. Sed pharetra lectus lorem, id laoreet magna eleifend vitae. Vestibulum ut tellus eros. Morbi eget erat tellus.</p>
+
+    <p>Nulla facilisi. Pellentesque hendrerit ut nisl eget scelerisque. Quisque in rhoncus dolor. Donec in lacus nec elit semper lobortis. Morbi vitae neque odio. Cras rutrum mi ex, ac volutpat risus luctus a. Vestibulum eu blandit risus, at viverra nunc. Curabitur pharetra aliquam aliquam. Integer auctor non lacus quis maximus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer pulvinar accumsan commodo.</p>
+</div>
